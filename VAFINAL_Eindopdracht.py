@@ -14,7 +14,6 @@ import folium
 from streamlit_folium import folium_static
 import plotly.graph_objects as go
 sp = spotipy.Spotify()
-import matplotlib.pyplot as plt
 
 from spotipy.oauth2 import SpotifyClientCredentials 
 
