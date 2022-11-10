@@ -6,4 +6,4 @@ folium==0.13.0
 numpy==1.23.3
 spotipy==2.20.0
 openpyxl
-statsmodels.api
+statsmodels
